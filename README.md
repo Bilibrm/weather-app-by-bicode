@@ -42,12 +42,12 @@ Check out the live demo of the app: [Weather Forecast App](https://bicode-weathe
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/weather-forecast-app.git
+git clone https://github.com/Bilibrm/weather-app-by-bicode.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd weather-forecast-app
+cd weather-app-by-bicode
 ```
 
 3. Install dependencies:
